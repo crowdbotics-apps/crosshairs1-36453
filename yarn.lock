@@ -1942,15 +1942,6 @@
     "normalize-path" "^3.0.0"
     "picomatch" "^2.0.4"
 
-"apostrophe-fancy-page@*":
-  "integrity" "sha512-woZkXgKCXNW2XTXFEj7BWmPZQBb5pxT/5k19av/Jeuz4BELmYqtxF6jf08h+Hib73JNiJKaNFL9R+Lkgvp0MZA=="
-  "resolved" "https://registry.npmjs.org/apostrophe-fancy-page/-/apostrophe-fancy-page-0.5.19.tgz"
-  "version" "0.5.19"
-  dependencies:
-    "async" "0.8.x"
-    "extend" "~1.2.1"
-    "lodash" "2.4.x"
-
 "appdirsjs@^1.2.4":
   "integrity" "sha512-D8wJNkqMCeQs3kLasatELsddox/Xqkhp+J07iXGyL54fVN7oc+nmNfYzGuCs1IEP6uBw+TfpuO3JKwc+lECy4w=="
   "resolved" "https://registry.npmjs.org/appdirsjs/-/appdirsjs-1.2.6.tgz"
@@ -2052,11 +2043,6 @@
   "version" "2.6.4"
   dependencies:
     "lodash" "^4.17.14"
-
-"async@0.8.x":
-  "integrity" "sha512-M2LC+aqW7VetFcnFiYEbjUsmASW6GSsMNkRzhUzwHoQNfNIRClf5GLgozwuJ4tAMLAfjywrKyQ2wWiODJivQmg=="
-  "resolved" "https://registry.npmjs.org/async/-/async-0.8.0.tgz"
-  "version" "0.8.0"
 
 "asynckit@^0.4.0":
   "integrity" "sha512-Oei9OH4tRh0YqU3GxhX79dM/mwVgvbZJaSNaRk+bshkj0S5cfHcgYakreBjrHwatXKbz+IoIdYLxrKim2MjW0Q=="
@@ -3311,11 +3297,6 @@
   dependencies:
     "assign-symbols" "^1.0.0"
     "is-extendable" "^1.0.1"
-
-"extend@~1.2.1":
-  "integrity" "sha512-2/JwIYRpMBDSjbQjUUppNSrmc719crhFaWIdT+TRSVA8gE+6HEobQWqJ6VkPt/H8twS7h/0WWs7veh8wmp98Ng=="
-  "resolved" "https://registry.npmjs.org/extend/-/extend-1.2.1.tgz"
-  "version" "1.2.1"
 
 "extglob@^2.0.4":
   "integrity" "sha512-Nmb6QXkELsuBr24CJSkilo6UHHgbekK5UiZgfE6UHD3Eb27YC6oD+bhcT+tJ6cl8dmsgdQxnWlcry8ksBIBLpw=="
@@ -4889,11 +4870,6 @@
   "integrity" "sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg=="
   "resolved" "https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz"
   "version" "4.17.21"
-
-"lodash@2.4.x":
-  "integrity" "sha512-Kak1hi6/hYHGVPmdyiZijoQyz5x2iGVzs6w9GYB/HiXEtylY7tIoYEROMjvM1d9nXJqPOrG2MNPMn01bJ+S0Rw=="
-  "resolved" "https://registry.npmjs.org/lodash/-/lodash-2.4.2.tgz"
-  "version" "2.4.2"
 
 "log-symbols@^2.2.0":
   "integrity" "sha512-VeIAFslyIerEJLXHziedo2basKbMKtTw3vfn5IzG0XTjhAVEJyNHnL2p7vc+wBDSdQuUpNw3M2u6xb9QsAY5Eg=="
