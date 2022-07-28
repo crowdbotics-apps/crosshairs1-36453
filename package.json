@@ -13,7 +13,6 @@
   },
   "dependencies": {
     "apostrophe-fancy-page": "*",
-    "abstract-env": "*",
     "babel-plugin-template-literals-qos": "*",
     "react": "17.0.1",
     "react-native": "0.64.0",

@@ -1816,11 +1816,6 @@
   "resolved" "https://registry.npmjs.org/absolute-path/-/absolute-path-0.0.0.tgz"
   "version" "0.0.0"
 
-"abstract-env@*":
-  "integrity" "sha512-fA3wnl37wPME0idkgGmF4h6OnDmuisljJepGKb3qlL/rp2Mbl8MDAIaj8vqOodRUnt0P+UKrVdKC8uehBeJAlw=="
-  "resolved" "https://registry.npmjs.org/abstract-env/-/abstract-env-0.0.0.tgz"
-  "version" "0.0.0"
-
 "accepts@^1.3.7", "accepts@~1.3.5", "accepts@~1.3.7":
   "integrity" "sha512-PYAthTa2m2VKxuvSD3DPC/Gy+U+sOA1LAuT8mkmRuvw+NACSaeXEQ+NHcVF7rONl6qcaxV3Uuemwawk+7+SJLw=="
   "resolved" "https://registry.npmjs.org/accepts/-/accepts-1.3.8.tgz"
